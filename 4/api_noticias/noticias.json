@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "titulo": "Tecnologia revoluciona educação",
+    "conteudo": "Novas tecnologias estão transformando a maneira como aprendemos. Com o uso de inteligência artificial e realidade virtual, as salas de aula se tornaram mais interativas e envolventes, proporcionando uma experiência de aprendizado única para os estudantes.",
+    "autor": "Maria Silva"
+  },
+  {
+    "id": 2,
+    "titulo": "Sustentabilidade: O futuro do planeta",
+    "conteudo": "A preocupação com o meio ambiente cresce a cada dia. Empresas e governos investem em tecnologias limpas e projetos sustentáveis para reduzir o impacto ambiental e garantir um futuro melhor para as próximas gerações.",
+    "autor": "João Santos"
+  },
+  {
+    "id": 3,
+    "titulo": "Inovações na medicina moderna",
+    "conteudo": "A medicina avança rapidamente com novas descobertas e tratamentos inovadores. Terapias genéticas, medicina personalizada e cirurgias robóticas estão revolucionando o cuidado com a saúde e salvando mais vidas.",
+    "autor": "Ana Costa"
+  },
+  {
+    "id": 4,
+    "titulo": "O crescimento do trabalho remoto",
+    "conteudo": "O trabalho remoto deixou de ser uma tendência e se tornou realidade para milhões de pessoas. Empresas adaptaram suas culturas organizacionais para acomodar essa nova modalidade, trazendo benefícios tanto para funcionários quanto para empregadores.",
+    "autor": "Carlos Oliveira"
+  },
+  {
+    "id": 5,
+    "titulo": "Inteligência artificial e o mercado",
+    "conteudo": "A inteligência artificial está transformando diversos setores da economia. Desde automação de processos até análise de dados complexos, a IA está criando novas oportunidades de negócio e mudando a forma como as empresas operam.",
+    "autor": "Fernanda Lima"
+  },
+  {
+    "id": 6,
+    "titulo": "Energias renováveis em alta",
+    "conteudo": "O investimento em energias renováveis bate recordes mundiais. Solar, eólica e outras fontes limpas de energia se tornam cada vez mais viáveis economicamente, prometendo um futuro mais sustentável e independente energeticamente.",
+    "autor": "Roberto Mendes"
+  }
+]
